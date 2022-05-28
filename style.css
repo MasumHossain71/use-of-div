@@ -1,0 +1,46 @@
+.header{
+  background-color: black;
+  color:white;
+  text-align: center;
+  font-family: arial black;
+  font-size: 40px;
+}
+.menu{
+  background-color: grey;
+  color:yellow;
+  text-align: center;
+  font-family: arial black;
+  font-size: 25px;
+  height: 40px;
+  padding-top: 8px;
+}
+.left{
+  background-color: pink;
+  color:black;
+  text-align: center;
+  font-family: arial black;
+  font-size: 30px;
+  width:30%;
+  height:750px;
+  float:left;
+  padding-top:10px;
+  text-decoration: underline;
+}
+.right{
+  background-color: rgb(150, 255, 232);
+  color:black;
+  text-align: center;
+  font-family: arial black;
+  font-size: 30px;
+  width:70%;
+  height:750px;
+  float:right;
+  padding-top:10px;
+  text-decoration: underline;
+}
+.footer{
+  text-align: center;
+  font-family: arial black;
+  font-size:15px;
+  margin-top: 10px;
+}
