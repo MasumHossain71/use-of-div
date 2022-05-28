@@ -39,9 +39,9 @@
   text-decoration: underline;
 }
 .footer{
-  text-align: center;
+  text-align:center;
   font-family: arial black;
   font-size:15px;
-  margin-top: 10px;
   background-color: orange;
+  height: 855px;
 }
